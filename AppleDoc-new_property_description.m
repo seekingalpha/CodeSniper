@@ -1,9 +1,11 @@
 // appledoc - new Overview or Property Description
 // A sample of how one would write a description for a property or a class overview.
 //
+// IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: FD548293-1F3B-4E64-BFCB-BE871BBC5150
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
+// IDECodeSnippetVersion: 2
 
 // Platform: All
 // Language: Objective-C
