@@ -1,9 +1,10 @@
 // appledoc - add bug notes
 // If you need to reference a Bug and want that highlighted in a yellow box
 //
-// Place this inside an existing appledoc comments block
-// Platform: All
+// IDECodeSnippetIdentifier: 7DE9D9F4-59E7-4A91-B906-2191FC2E80C6
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 // Language: Objective-C
-// Completion Scope: Function or Method
+// Platform: All
 
 @bug *Bug:* <#bug_description_text#>

@@ -1,9 +1,11 @@
 // appledoc - new method description
 // A sample of how one would write a description for a method.
 //
-// Platform: All
+// IDECodeSnippetIdentifier: 1DD7A238-19D9-4BB3-BED9-53610EBF610A
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 // Language: Objective-C
-// Completion Scope: Function or Method
+// Platform: All
 
 /**
  @abstract <#method_description#>

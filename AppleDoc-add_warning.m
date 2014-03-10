@@ -1,9 +1,10 @@
 // appledoc - add Warning
 // To add a warning, drawn in a blue box
 //
-// Place this inside an existing appledoc comments block
-// Platform: All
+// IDECodeSnippetIdentifier: D92E726F-0ACD-4C8D-9D3B-AC673724517E
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 // Language: Objective-C
-// Completion Scope: Function or Method
+// Platform: All
 
 @warning *Warning:* <#warning_text#>

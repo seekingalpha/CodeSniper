@@ -1,9 +1,10 @@
 // appledoc - add discussion
 // To add a discussion section of a parameter/method description
 //
-// Place this inside an existing appledoc comments block
-// Platform: All
+// IDECodeSnippetIdentifier: AB9D5995-CA70-4B79-8AC0-E6AA4098C68F
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 // Language: Objective-C
-// Completion Scope: Function or Method
+// Platform: All
 
 @discussion <#description#>
