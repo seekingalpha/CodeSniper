@@ -6,6 +6,7 @@
 // IDECodeSnippetIdentifier: 07AA1DCF-F43C-41FE-84FB-C703DC7F2941
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetRelativePriority: 1
+// IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 1
 @catch (<#exception#>) {
     <#handler#>

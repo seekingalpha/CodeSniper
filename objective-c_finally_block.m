@@ -6,6 +6,7 @@
 // IDECodeSnippetIdentifier: E591D0EA-F048-4CA4-B0C1-7794A0118F79
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetRelativePriority: 1
+// IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 1
 @finally {
     <#handler#>
