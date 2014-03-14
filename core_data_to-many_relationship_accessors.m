@@ -3,10 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: 
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
-// IDECodeSnippetIdentifier: C1E91503-E91F-4EEA-A032-D98D80CDD00A
+// IDECodeSnippetIdentifier: 5C18BA5B-BBB0-4249-B124-CDDE73B78A0C
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 - (void)add<#Capitalized relationship name#>Object:(<#Relationship destination class#> *)value
 {    
     NSSet *changedObjects = [[NSSet alloc] initWithObjects:&value count:1];
