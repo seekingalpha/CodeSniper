@@ -3,10 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: inlineBlock
 // IDECodeSnippetCompletionScopes: [CodeBlock]
-// IDECodeSnippetIdentifier: 83CBFBD3-CDC7-4637-8CCE-FEE243AF09AE
+// IDECodeSnippetIdentifier: 0BA2D0E2-A97F-4EF8-ABE6-271C86C05AF3
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 <#Return Type#>(^<#Block Name#>)(<#Parameter Types#>) = ^(<#Parameters#>) {
     <#Code#>
 };
